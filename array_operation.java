@@ -80,9 +80,7 @@ class operation{
         int index=sc.nextInt();
         int []arra;
         arra=new int[size+1];
-        for (int i = 0; i < size; i++) {
-            arra[i]=arr[i];
-        }
+         
         try
         {
             for (int i = 0; i < size + 1; i++)
